@@ -5,7 +5,7 @@ const testEnvVars = {
     INPUT_VERSION: '0.1.20',
 };
 
-describe('aig787/cargo-udeps', () => {
+describe('matthias.goergens/cargo-udeps', () => {
     beforeEach(() => {
         console.log(testEnvVars);
         Object.entries(testEnvVars).forEach(([key, value]) => {

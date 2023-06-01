@@ -28,7 +28,7 @@ jobs:
           override: true
 
       - name: Run cargo-udeps
-        uses: aig787/cargo-udeps-action@v1
+        uses: matthias.goergens/cargo-udeps-action@v1
         with:
           version: 'latest'
           args: '--all-targets'
