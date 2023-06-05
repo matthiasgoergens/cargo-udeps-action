@@ -32,7 +32,7 @@
     "@actions/tool-cache": "^1.6.1",
     "@types/node-fetch": "^2.6.4",
     "npm-check-updates": "^16.10.12",
-    "string-argv": "^0.3.1"
+    "string-argv": "^0.3.2"
   },
   "devDependencies": {
     "@types/jest": "^26.0.15",
